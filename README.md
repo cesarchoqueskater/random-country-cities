@@ -17,6 +17,10 @@ npm install -g random-country-cities
 random-country-cities
 ```
 
+# Screenshot
+![Screenshot](./screenshots/screenshot_bash.png)
+
+
 # Contributing
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-country-cities](https://github.com/cesarchoqueskater/random-country-cities)
 

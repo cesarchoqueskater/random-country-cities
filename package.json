@@ -1,7 +1,7 @@
 {
   "name": "country-cities-random",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Random of Country and it's Cities",
   "main": "src/index.js",
   "scripts": {

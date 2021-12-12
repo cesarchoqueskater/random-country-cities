@@ -1,0 +1,36 @@
+{
+  "name": "country-cities-random",
+  "type": "module",
+  "version": "1.0.1",
+  "description": "Random of Country and it's Cities",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm",
+    "country",
+    "cities",
+    "random"
+  ],
+  "author": "Cesar Choquehuanca <cesarchoqueskater@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-country-cities": "bin/country-city.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarchoqueskater/random-country-cities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cesarchoqueskater/random-country-cities/issues"
+  },
+  "homepage": "https://github.com/cesarchoqueskater/random-country-cities#readme"
+}

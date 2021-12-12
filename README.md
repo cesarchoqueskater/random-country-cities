@@ -25,4 +25,4 @@ random-country-cities
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-country-cities](https://github.com/cesarchoqueskater/random-country-cities)
 
 # License
-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+random-country-cities is released under the [MIT License](https://opensource.org/licenses/MIT).
